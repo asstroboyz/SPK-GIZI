@@ -1,6 +1,6 @@
 ## Sistem Pendukung Keputusan Pemilihan Wisma menggunakan Metode Analitical Hyrarcy Process (AHP)
 
-Aplikasi ini saya beri nama `SIPILMA`.
+Aplikasi ini saya beri nama `SPK-GIZI`.
 
 Aplikasi ini menggunakan Framework `Laravel version 5.7.x`
 
@@ -31,5 +31,3 @@ Dokumentasi resmi Laravel dapat kamu temukan di [Laravel website](http://laravel
 - Done.
 
 #
-### Seputar pertanyaan ? Kontak saya di:
-- [Facebook](https://facebook.com/caesaralilamondo)
